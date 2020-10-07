@@ -1,7 +1,7 @@
 <template>
 <div id="app">
     <div>
-        <h1 class="text-center" style="color: #cc6699"><b>MY PICTURE</b></h1>
+        <h1 class="text-center" style="color: #cc6699"><b>View Title</b></h1>
         <!-- start slide carousel insearch-->
         <div>
             <div id="carouselExampleCaptions" class="carousel slide mj" data-ride="carousel">
@@ -12,19 +12,19 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./assets/img/top.jpg" height="500px" class="d-block w-100" />
+                        <img src="./assets/img/4.jpg" height="500px" class="d-block w-100" />
                         <div class="carousel-caption d-none d-md-block">
                             <h5>First slide</h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="./assets/img/2.jpg" height="500px" class="d-block w-100" />
+                        <img src="./assets/img/5.jpg" height="500px" class="d-block w-100" />
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Second slide</h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="./assets/img/1.jpg" height="500px" class="d-block w-100" />
+                        <img src="./assets/img/6.jpg" height="500px" class="d-block w-100" />
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Third slide</h5>
                         </div>
